@@ -1,0 +1,3 @@
+#Change to whatever version of Python is supported
+
+python3 -c 'import pty;pty.spawn("/bin/bash")'
